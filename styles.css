@@ -1,0 +1,26 @@
+nav ul {
+         font-size: 1.2em;
+}
+
+main {
+      background-color: #edc7b7;
+      font-style: bold;
+      font-size: 20px;
+      padding-top: 12px;
+      padding-bottom: 10px;
+}
+
+footer { background-color: #eee2dc;
+         font-size:70%;
+         text-align: center;
+		 padding: 1.2em;
+		 clear: both; 
+}
+
+header {
+      padding-top: 40px;
+}
+
+#intro {
+      padding: 20px;
+}
